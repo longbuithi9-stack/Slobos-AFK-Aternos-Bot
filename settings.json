@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": phat.n108,
     "type": "online"
   },
   "server": {
     "ip": "phat108.aternos.me",
     "port": 22114,
-    "version": 1.21,
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
