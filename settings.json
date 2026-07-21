@@ -8,7 +8,7 @@
   "server": {
     "ip": "phat108.aternos.me",
     "port": 22114,
-    "version": 1.21.11,
+    "version": 1.21,
     "try-creative": false
   },
   "position": {
