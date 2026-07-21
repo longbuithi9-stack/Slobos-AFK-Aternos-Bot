@@ -5,7 +5,7 @@
     "password": "",
     "type": "online"
   },
-  "server": {-6683
+  "server": {
     "ip": "phat108.aternos.me",
     "port": 22114,
     "version": 1.21,
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -6683,
+    "y": 75,
+    "z": -5882
   },
   "utils": {
     "auto-auth": {
